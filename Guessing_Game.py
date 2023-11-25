@@ -1,5 +1,3 @@
-# Shaelyn Britney
-# CIS 261
 # Guessing Game
 
 import random
